@@ -1,1 +1,26 @@
 # Kaiten
+
+Создайте пространство и добавьте новую доску типа Scrum.
+Добавьте новую колонку в «Готово для тестирования», переместите колонку так, чтобы она была после колонки «В работе».
+<img width="1855" height="982" alt="image" src="https://github.com/user-attachments/assets/aa2ca47d-076f-463b-a825-1ff08d3b085f" />
+
+Создайте задачу в Backlog доске, например «Frontend Bug»
+Переместите все задачи на доску Sprint, в колонку Бэклог спринта.
+Переместите одну из задач в колонку работа и добавьте там комментарий по желанию, например, «Frontend Bug» -> «Баг будет устранён путём обновления библиотеки в микрофронтенде».
+Создайте в выбранной задаче дочернюю карточку в Backlog доске с названием «Обновить библиотеку» «[LIB-456] Upgrade Material-UI from v4.12.3 to v5.0.0 in product-details microfrontend to resolve layout bugs»
+Переместите новую карточку в Бэклог Спринта, потом «В работе», в колонке «В работе» добавьте комментарий, например, «Library Material-UI updated to v5.0.0», также добавьте трудозатраты в новой задаче — 1ч.
+Переместите дочернюю задачу в колонку «Готово» на доске Sprint.
+Переместите родительскую задачу «Поправить bug на Frontend» в колонку «Готово» на доске Sprint, не забудьте списать потраченное время 0,2 ч.
+
+<img width="1640" height="962" alt="image" src="https://github.com/user-attachments/assets/7320faac-3e28-4192-aaa0-36cc394d9013" />
+<img width="1697" height="996" alt="image" src="https://github.com/user-attachments/assets/da1c6b04-c6d0-4519-ba81-95c26487b9b2" />
+
+Создайте две задачи в Backlog доске, например «Backend — Integration with YandexPay».
+Добавьте дочернюю задачу в задачу «Поправить bug на Backend», назовите её «Update API Endpoint for Improved Error Handling», получившуюся подзадачу переместите в колонку «Готово для тестирования».
+Переместите новую дочернюю задачу в колонку «В работе» и добавьте комментарий «Update the API endpoint to enhance error handling mechanisms.» После добавьте трудозатраты (4ч) и переместите задачу в колонку «Готово для тестирования».
+В новой колонке «Готово для тестирования» добавьте следующий комментарий «All tests passed successfully» и трудозатраты (1ч). Переместите в колонку «Готово».
+Завершите задачу/карточку «Поправить bug на Backend» переместив в колонку «Готово».
+
+<img width="1383" height="937" alt="image" src="https://github.com/user-attachments/assets/30124557-0a1a-4a83-a6fe-87af71d14dbb" />
+
+<img width="1676" height="930" alt="image" src="https://github.com/user-attachments/assets/a309f6c0-2418-4925-9055-5675fbb3cf9b" />
